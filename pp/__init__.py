@@ -7,5 +7,5 @@ PP_CALCULATORS = {
     gameModes.STD: ez.Ez,
     gameModes.TAIKO: ez.Ez,
     gameModes.CTB: cicciobello.Cicciobello,
-    gameModes.MANIA: wifipiano3.piano
+    gameModes.MANIA: wifipiano2.piano
 }
